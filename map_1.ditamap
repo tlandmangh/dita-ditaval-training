@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Map 1</title>
+    <topicmeta>
+        <author type="creator">Theo Landman</author>
+        <critdates>
+            <created date="2023-03-09"/>
+        </critdates>
+    </topicmeta>
+    <topicref href="map_2.ditamap" format="ditamap"/>
+    <topicref href="novice_user.dita"/>
+    <topicref href="expert_user.dita"/>
+</map>

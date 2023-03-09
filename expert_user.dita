@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="expert_user">
+    <title>Expert User</title>
+    <shortdesc>For the expert user.</shortdesc>
+    <prolog>
+        <author type="creator">Theo Landman</author>
+        <critdates>
+            <created date="2023-03-09"/>
+        </critdates>
+    </prolog>
+    <conbody>
+        <p></p>
+    </conbody>
+</concept>
