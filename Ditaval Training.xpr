@@ -2,7 +2,79 @@
 <project>
     <meta>
         <filters directoryPatterns="" filePatterns="\QDitaval%20Training.xpr\E" positiveFilePatterns="" showHiddenFiles="false"/>
-        <options/>
+        <options>
+            <serialized xml:space="preserve">
+                <serializableOrderedMap>
+                    <entry>
+                        <String>author.profiling.styles</String>
+                        <profilingAttributeStyle-array>
+                            <profilingAttributeStyle>
+                                <field name="attributeValue">
+                                    <String>expert</String>
+                                </field>
+                                <field name="foregroundColor">
+                                    <Integer>-16776961</Integer>
+                                </field>
+                                <field name="backgroundColor">
+                                    <Integer>0</Integer>
+                                </field>
+                                <field name="docTypePattern">
+                                    <String>*DITA*</String>
+                                </field>
+                                <field name="attributeName">
+                                    <String>audience</String>
+                                </field>
+                                <field name="attributeGroupName">
+                                    <null/>
+                                </field>
+                                <field name="textDecoration">
+                                    <null/>
+                                </field>
+                                <field name="bold">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="italic">
+                                    <Boolean>false</Boolean>
+                                </field>
+                            </profilingAttributeStyle>
+                            <profilingAttributeStyle>
+                                <field name="attributeValue">
+                                    <String>novice</String>
+                                </field>
+                                <field name="foregroundColor">
+                                    <Integer>-9671680</Integer>
+                                </field>
+                                <field name="backgroundColor">
+                                    <Integer>0</Integer>
+                                </field>
+                                <field name="docTypePattern">
+                                    <String>*DITA*</String>
+                                </field>
+                                <field name="attributeName">
+                                    <String>audience</String>
+                                </field>
+                                <field name="attributeGroupName">
+                                    <null/>
+                                </field>
+                                <field name="textDecoration">
+                                    <String>Double-underline</String>
+                                </field>
+                                <field name="bold">
+                                    <Boolean>false</Boolean>
+                                </field>
+                                <field name="italic">
+                                    <Boolean>false</Boolean>
+                                </field>
+                            </profilingAttributeStyle>
+                        </profilingAttributeStyle-array>
+                    </entry>
+                    <entry>
+                        <String>profiling.colors.option.pane</String>
+                        <Boolean>true</Boolean>
+                    </entry>
+                </serializableOrderedMap>
+            </serialized>
+        </options>
     </meta>
     <projectTree name="Ditaval%20Training.xpr">
         <folder path="."/>

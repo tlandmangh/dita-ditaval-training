@@ -6,9 +6,11 @@
         <author type="creator">Theo Landman</author>
         <critdates>
             <created date="2023-03-09"/>
+            <!--Theo Landman-->
+            <revised modified="2023-03-09"/>
         </critdates>
     </topicmeta>
-    <topicref href="map_2.ditamap" format="ditamap"/>
-    <topicref href="novice_user.dita"/>
+    <topicref href="map_2.ditamap" format="ditamap" audience="expert"/>
+    <topicref href="novice_user.dita" audience="novice"/>
     <topicref href="expert_user.dita"/>
 </map>
